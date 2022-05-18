@@ -1,5 +1,5 @@
 # Leaflet Plugin Review Exercise
-### Due 6/1
+### Due 5/31
 ## Instructions
 1. Go to the Git Practicing repo and do a `git pull` (if you have not cloned it already, then clone it)
 2. Try out one of the following Leaflet plugins from the list below OR explore one from this list and add to the end of the table: https://leafletjs.com/plugins.html
