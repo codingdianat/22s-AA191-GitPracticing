@@ -1,14 +1,16 @@
 // declare variables
 let mapOptions = {'center': [34.0709,-118.444],'zoom':5};
 
-let englishFirst = L.featureGroup();
-let nonEnglishFirst = L.featureGroup();
+let englishFirst = L.markerClusterGroup();
+let nonEnglishFirst = L.markerClusterGroup();
+
+
 
 let layers = {
     "Speaks English First": englishFirst,
     "Doesn't Speak English First": nonEnglishFirst
 };
-
+s
 let circleOptions = {
     radius: 4,
     fillColor: "#ff7800",
